@@ -1,0 +1,9 @@
+- name: Home
+  link: /
+- name: Research
+  link: /research.html
+- name: CV
+  link: /cv.html  
+- name: Teaching
+  link: /teaching.html
+  
