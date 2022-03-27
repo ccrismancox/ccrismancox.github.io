@@ -7,7 +7,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
 words_per_minute: 160
-twitter_username: ccrismancox
 # Site Author
 author:
   name             : "Casey Crisman-Cox"
