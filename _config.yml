@@ -11,11 +11,12 @@ github:
 remote_theme: lewismiddleton/cayman-dark
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
+google_analytics: UA-65611146-2
 words_per_minute: 160
 twitter: 
   username: "ccrismancox"
 
-# Site Author
+# Site Author and information
 author:
   name             : "Casey Crisman-Cox"
   avatar           : 
