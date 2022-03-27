@@ -9,19 +9,20 @@ order: 2
 
 # Texas A&M University
 
-- Quantitative Political Analysis (Graduate) syllabus
-- Polimetrics (Undergraduate) syllabus
+- Quantitative Political Analysis (Graduate) [syllabus](teaching/Syllabus_POLS602_FA2021.pdf)
+- Polimetrics (Undergraduate) [syllabus](teaching/Syllabus_POLS309_FA2021.pdf)
 
 # Resources for Grad Students
 
--  Introduction to R Programming  (UPDATED FALL 2021) notes other files
--  Introduction to LaTeX notes other files
+-  Introduction to R Programming  (UPDATED FALL 2021) [notes](R_Course.pdf) [other files](teaching/Datasets.zip)
+-  Introduction to LaTeX [notes](latexCourse.pdf) [other files](teaching/additional_files.zip)
+- Getting started with Github [youtube](https://youtu.be/Hhr7t3mu4jM)
 
 # Washington University in St. Louis
 
-- Panel Data (Graduate) syllabus
-- Civil War and Peace (Undergraduate) syllabus
-- Terrorism and Political Violence (Undergraduate) syllabus
+- Panel Data (Graduate) [syllabus](Syllabus_panelData_WUSTL.pdf)
+- Civil War and Peace (Undergraduate) [syllabus](Syllabus2017_CW.pdf)
+- Terrorism and Political Violence (Undergraduate) [syllabus](teaching/Syllabus2017_Terr.pdf)
 	
 #  University of Rochester
 
