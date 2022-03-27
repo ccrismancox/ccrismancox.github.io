@@ -7,7 +7,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
 words_per_minute: 160
-twitter: ccrismancox
+twitter_username: ccrismancox
 # Site Author
 author:
   name             : "Casey Crisman-Cox"
@@ -47,4 +47,4 @@ author:
   wikipedia        :
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-seo
+- jekyll-seo-tag
