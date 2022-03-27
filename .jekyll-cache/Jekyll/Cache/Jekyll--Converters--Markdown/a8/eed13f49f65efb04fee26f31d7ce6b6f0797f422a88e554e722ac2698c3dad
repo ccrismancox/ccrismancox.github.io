@@ -1,0 +1,24 @@
+I"�<h1 id="publications">Publications</h1>
+
+<ol>
+  <li>“Democracy, Reputation for Resolve, and Civil Conflict.” 2021. Online at the <em>Journal of Peace Research</em>. <a href="research/CrismanCox_JPR2022.pdf">Paper</a> <a href="research/appendixDuration.pdf">Appendix</a> <a href="https://journals.sagepub.com/doi/full/10.1177/00223433211024697">Publisher</a></li>
+  <li>“Estimating Substantive Effects in Binary Outcome Panel Models: A Comparison.” 2021. <em>Journal of Politics</em>.  <a href="research/CrismanCox_JOP2021.pdf">Paper</a> <a href="research/SupplementCRE.pdf">Appendix</a> <a href="https://www.journals.uchicago.edu/doi/10.1086/709839">Publisher</a></li>
+  <li>“Estimating Signaling Games in International Relations: Problems and Solutions” (with Michael Gibilisco). 2021. <em>Political Science Research and Methods</em>.  <a href="research/CrismanCox_PSRM2021.pdf">Paper</a> <a href="research/SupplementSignalingGames2019.pdf">Appendix</a> <a href="https://doi.org/10.1017/psrm.2019.58">Publisher</a></li>
+  <li>“Audience Costs and the Dynamics of War and Peace” (with Michael Gibilisco). 2018. <em>American Journal of Political Science</em>. <a href="research/CrismanCox_AJPS2018.pdf">Paper</a> <a href="research/SupplementAudienceCosts2018.pdf">Appendix</a> <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12347">Publisher</a> <a href="research/ACestimates.csv">Audience cost estimates</a></li>
+  <li>“Enemies Within: Interactions Between Terrorists and Democracies.” 2018. <em>Journal of Conflict Resolution</em>.   <a href="research/CrismanCox_JCR2018.pdf">Paper</a> <a href="research/SupplementTerrorParties.pdf">Appendix</a> <a href="https://doi.org/10.1177/0022002717698819">Publisher</a></li>
+</ol>
+
+<p>Replication materials for all of the above are available <a href="https://github.com/ccrismancox">here</a></p>
+
+<h1 id="in-progress">In progress</h1>
+
+<ul>
+  <li>“Tug-of-war Dynamics in Competition Between Terrorist Groups” (with Michael Gibilisco) <a href="research/outbidding.pdf">paper</a> <a href="research/outbiddingSI.pdf">appendix</a></li>
+  <li>“The Prospect of Punishment and the Strategic Escalation of Civil Conflicts”  <a href="research/punishment.pdf">paper</a> <a href="research/SIpunishment.pdf">appendix</a></li>
+  <li>“Finding and Accounting for Separation Bias in Strategic Choice Models” (with Curtis Signorino and Olga Gasparyan)  (invited to revise and resubmit at Political Analysis) <a href="research/SeparationProject.pdf">paper</a> <a href="research/SeparationAppendix.pdf">Appendix</a></li>
+  <li>“Remittances, Domestic Terrorism, and Democracy” (with Yohan Park)</li>
+</ul>
+
+<h1 id="software">Software</h1>
+<p>Casey Crisman-Cox and Michael Gibilisco (2019). “sigInt: Estimate the Parameters of a Discrete Crisis-Bargaining Game.” R package version 0.2.0. <a href="https://github.com/ccrismancox/sigInt">github</a> <a href="https://cran.r-project.org/web/packages/sigInt/index.html">cran</a></p>
+:ET
