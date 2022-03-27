@@ -1,13 +1,50 @@
+locale: "en-US"
 title: "Casey Crisman-Cox"
 name: &name "Casey Crisman-Cox"
 locale                   : "en-US"
-description: ""
+description: &description "Assistant Professor of Political Science at Texas A&M University"
 remote_theme: pages-themes/cayman@v0.2.0
+baseurl: ""
+repository: "ccrismancox/ccrismancox.github.io"
+words_per_minute: 160
+twitter: ccrismancox
+# Site Author
 author:
-    name: Casey Criman-Cox
-    email: ccrismancox@gmail.com
-    github: ccrismancox
-    twitter: ccrismancox
+  name             : "Casey Crisman-Cox"
+  avatar           : 
+  bio              : "Assistant Professor"
+  location         : 
+  employer         :
+  pubmed           :
+  orcid            : "http://orcid.org/0000-0002-5229-3955"
+  googlescholar    : "https://scholar.google.com/citations?user=bAGzLCgAAAAJ"
+  email            : 
+  uri              :
+  bitbucket        : "ccrismancox"
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "ccrismancox"
+  gitlab           : 
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         : "caseycrismancox"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : "https://stackoverflow.com/users/14270942/ccrismancox"
+  steam            :
+  tumblr           :
+  twitter          : "ccrismancox"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-seo
