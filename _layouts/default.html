@@ -28,11 +28,11 @@
     
     <title>{{ page-title }}</title>
     
-    {% if site.gems contains "jekyll-seo-tag" %}
-       {% seo %}
-    {% else %}
+
+    {% seo %}
+
     {% include social-metatags.html %}
-    {% endif %}
+
     
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
     
