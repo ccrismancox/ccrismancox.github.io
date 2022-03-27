@@ -8,8 +8,8 @@ tagline: "Casey Crisman-Cox's research page. political science. international re
 github:
   url: "ccrismancox.github.io"
   is_project_page: "false"
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: lewismiddleton/cayman-dark
+remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: lewismiddleton/cayman-dark
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
 google_analytics: UA-65611146-2
@@ -54,6 +54,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
 gems:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
