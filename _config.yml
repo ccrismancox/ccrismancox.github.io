@@ -1,22 +1,18 @@
 locale: "en-US"
 title: "Casey Crisman-Cox"
 name: &name "Casey Crisman-Cox"
-locale                   : "en-US"
 description: &description "Assistant Professor of Political Science at Texas A&M University"
-#url: "www.caseycrismancox.com"
 tagline: "Casey Crisman-Cox's research page. political science. international relations. EITM. statistical methods."
 github:
   url: "ccrismancox.github.io"
   is_project_page: "false"
 remote_theme: pages-themes/cayman@v0.2.0
-#remote_theme: lewismiddleton/cayman-dark
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
 google_analytics: UA-65611146-2
 words_per_minute: 160
 twitter: 
   username: "ccrismancox"
-
 # Site Author and information
 author:
   name             : "Casey Crisman-Cox"
