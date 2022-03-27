@@ -2,8 +2,12 @@
 layout: page
 title: CV
 tagline: 
+permalink: /cv.html
 ref: CV
 order: 1
+redirect_from:
+  - /cv
+  - /cv.html
 ---
 
-rebuild in progress
+﻿A PDF version of my CV is available [here](cv/CoxCV.pdf) (Updated Jan. 2022)
