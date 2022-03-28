@@ -2,7 +2,7 @@ locale: "en-US"
 title: "Casey Crisman-Cox"
 name: &name "Casey Crisman-Cox"
 description: &description "Assistant Professor of Political Science at Texas A&M University"
-tagline: "Casey Crisman-Cox's research page. political science. international relations. EITM. statistical methods."
+tagline: "Casey Crisman-Cox's research page. Texas A&M, TAMU, Structural Estimation. political science. international relations. EITM. statistical methods. Research"
 github:
   url: "ccrismancox.github.io"
   is_project_page: "false"
@@ -63,4 +63,4 @@ defaults:
    scope:
      path: ""
    values:
-     description: "Casey Crisman-Cox"
+     description: "Assistant Professor of Political Science at Texas A&M University"
