@@ -10,7 +10,7 @@ order: 2
 # Texas A&M University
 
 - Quantitative Political Analysis (Graduate) [syllabus](teaching/Syllabus_POLS602_FA2021.pdf)
-- Polimetrics (Undergraduate) [syllabus](teaching/Syllabus_POLS309_FA2021.pdf)
+- Polimetrics (Undergraduate) [syllabus](teaching/Syllabus_POLS309_SP2022.pdf)
 
 # Resources for Grad Students
 
