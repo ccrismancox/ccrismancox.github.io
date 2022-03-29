@@ -20,7 +20,7 @@ author:
   avatar           : 
   bio              : "Assistant Professor"
   location         : 
-  employer         : "Texas A&M"
+  employer         : 
   pubmed           :
   orcid            : "http://orcid.org/0000-0002-5229-3955"
   googlescholar    : "https://scholar.google.com/citations?user=bAGzLCgAAAAJ"
@@ -52,9 +52,6 @@ author:
   youtube          :
   wikipedia        :
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-seo-tag
-gems:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
 defaults:
