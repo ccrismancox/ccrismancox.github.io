@@ -10,4 +10,4 @@ redirect_from:
   - /cv.html
 ---
 
-﻿A PDF version of my CV is available [here](cv/CoxCV.pdf) (Updated Jan. 2022)
+﻿A PDF version of my CV is available [here](cv/CoxCV.pdf) (Updated July 2022)
