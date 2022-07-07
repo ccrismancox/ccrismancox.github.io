@@ -24,7 +24,7 @@ Replication materials for all of the above are available [here](https://github.c
 
 # In progress
 
-- "Finding and Accounting for Separation Bias in Strategic Choice Models" (with Curtis Signorino and Olga Gasparyan). Invited to revise and resubmit at *Political Analysis*[Paper](research/SeparationProject.pdf) [Appendix](research/SeparationAppendix.pdf)
+- "Finding and Accounting for Separation Bias in Strategic Choice Models" (with Curtis Signorino and Olga Gasparyan). Invited to revise and resubmit at *Political Analysis* [Paper](research/SeparationProject.pdf) [Appendix](research/SeparationAppendix.pdf)
 - "Tug-of-war Dynamics in Competition Between Terrorist Groups" (with Michael Gibilisco) [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf)
 - "The Prospect of Punishment and the Strategic Escalation of Civil Conflicts"  [Paper](research/punishment.pdf) [Appendix](research/SIpunishment.pdf)
 - "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park) 
