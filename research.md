@@ -33,5 +33,5 @@ Replication materials for all of the above are available [here](https://github.c
 # Software
 
 - Casey Crisman-Cox and Michael Gibilisco. 2019. "sigInt: Estimate the Parameters of a Discrete Crisis-Bargaining Game." R package version 0.2.0. [github](https://github.com/ccrismancox/sigInt) [cran](https://cran.r-project.org/web/packages/sigInt/index.html)
-- Casey Crisman-Cox. 2022 "games2: An Extension to the R package 'games' for bias reduced penalized likelihood estimation." In progress. Building on work by Curt Signorino and Brenton Kenkel. [github](https://github.com/ccrismancox/games2/)
+- Curt Signorino,  Brenton Kenkel. and Casey Crisman-Cox. 2022 "games2: An Extension to the R package 'games' for bias reduced penalized likelihood estimation."  [github](https://github.com/ccrismancox/games2/)
 
