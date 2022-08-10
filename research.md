@@ -27,7 +27,7 @@ Replication materials for all of the above are available [here](https://github.c
 
 - "Tug-of-war Dynamics in Competition Between Terrorist Groups" (with Michael Gibilisco) [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf)
 - "The Prospect of Punishment and the Strategic Escalation of Civil Conflicts"  [Paper](research/punishment.pdf) [Appendix](research/SIpunishment.pdf)
-- "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park) 
+- "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park) [Paper](research/remittances.pdf) [Appendix](research/SIremittances.pdf)
 - "Simple Approaches to Addressing Unobserved Heterogeneity in Systems of Binary Outcome Equations" (with Keigo Tanabe)
 
 # Software
