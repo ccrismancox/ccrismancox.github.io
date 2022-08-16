@@ -20,7 +20,6 @@ redirect_from:
 5. "Enemies Within: Interactions Between Terrorists and Democracies." 2018. *Journal of Conflict Resolution*.   [Paper](research/CrismanCox_JCR2018.pdf) [Appendix](research/SupplementTerrorParties.pdf) [Publisher](https://doi.org/10.1177/0022002717698819) [Replication](https://github.com/ccrismancox/JCR_enemieswithin)
 
 
-Replication materials for all of the above are available [here](https://github.com/ccrismancox)
 
 
 # In progress
