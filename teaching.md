@@ -14,7 +14,8 @@ order: 2
 
 # Resources for Grad Students
 
--  Introduction to R Programming  (UPDATED FALL 2021) [notes](teaching/R_Course.pdf) [other files](teaching/Datasets.zip)
+-  Introduction to R Programming  (UPDATED FALL 2022) [notes](teaching/R_Course.pdf) [datasets](teaching/Datasets.zip)
+    - Useful R slides on data frames and ggplot [slides](teaching/dataviz1.pdf) [datasets](teaching/dataviz_datasets.zip)
 -  Introduction to LaTeX [notes](teaching/latexCourse.pdf) [other files](teaching/additional_files.zip)
 - Getting started with Github [youtube](https://youtu.be/Hhr7t3mu4jM)
 
