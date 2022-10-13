@@ -9,11 +9,12 @@ github:
 remote_theme: pages-themes/cayman@v0.2.0
 baseurl: ""
 repository: "ccrismancox/ccrismancox.github.io"
-google_analytics: UA-65611146-2
+## google_analytics: UA-65611146-2 # old version
+google_analytics: G-4XY68PPM25
 words_per_minute: 160
 twitter: 
   username: "ccrismancox"
-# Site Author and information
+## Site Author and information
 author:
   name             : "Casey Crisman-Cox"
   url              : "ccrismancox/github.io"
@@ -37,7 +38,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :
+  impactstory      :	
   lastfm           :
   linkedin         : "caseycrismancox"
   pinterest        :
