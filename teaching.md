@@ -14,9 +14,9 @@ order: 2
 
 # Resources for Grad Students
 
--  Introduction to R Programming  (UPDATED FALL 2022) [notes](teaching/R_Course.pdf) [datasets](teaching/Datasets.zip)
+-  Introduction to R Programming  (UPDATED FALL 2023) [github site](https://github.com/ccrismancox/Rcourse)
     - Useful R slides on data frames and ggplot [slides](teaching/dataviz1.pdf) [datasets](teaching/dataviz_datasets.zip)
--  Introduction to LaTeX [notes](teaching/latexCourse.pdf) [other files](teaching/additional_files.zip)
+-  Introduction to LaTeX [github site](https://github.com/ccrismancox/Rcourse)
 - Getting started with Github [youtube](https://youtu.be/Hhr7t3mu4jM)
 
 # Washington University in St. Louis
