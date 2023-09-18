@@ -12,6 +12,7 @@ redirect_from:
 
 # Publications
 
+1. "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park). 2023. Conditionally accepted at *Conflict Management and Peace Science*. [Paper](research/remittances.pdf) [Appendix](research/SIremittances.pdf)
 1. "Detecting and Correcting for Separation in Strategic Choice Models" (with Curtis Signorino and Olga Gasparyan). 2023.  *Political Analysis* [Paper](research/CrismanCox_PA2023.pdf) [Appendix](research/SeparationAppendix.pdf) [Publisher](https://doi.org/10.1017/pan.2022.36) [Replication](https://github.com/ccrismancox/PA_BrStrat) 
 1. "Democracy, Reputation for Resolve, and Civil Conflict." 2022. *Journal of Peace Research*. [Paper](research/CrismanCox_JPR2022.pdf) [Appendix](research/appendixDuration.pdf) [Publisher](https://doi.org/10.1177/00223433211024697) [Replication](https://github.com/ccrismancox/JPR_reputation4resolve)
 2. "Estimating Substantive Effects in Binary Outcome Panel Models: A Comparison." 2021. *Journal of Politics*.  [Paper](research/CrismanCox_JOP2021.pdf) [Appendix](research/SupplementCRE.pdf) [Publisher](https://doi.org/10.1086/709839) [Replication](https://github.com/ccrismancox/JOP_substantiveEffectsInBinaryOutcomePanelModels)
@@ -26,7 +27,6 @@ redirect_from:
 
 - "Tug of War: The Heterogeneous Effects of Outbidding between Terrorist Groups" (with Michael Gibilisco). Invited to revise and resubmit to *International Organization*. [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf)
 - "The Prospect of Punishment and the Strategic Escalation of Civil Conflicts"  [Paper](research/punishment.pdf) [Appendix](research/SIpunishment.pdf) 
-- "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park). Invited to revise and resubmit to *Conflict Management and Peace Science*. [Paper](research/remittances.pdf) [Appendix](research/SIremittances.pdf)
 - "Simple Approaches to Addressing Unobserved Heterogeneity in Systems of Binary Outcome Equations" (with Keigo Tanabe)
 
 # Software
