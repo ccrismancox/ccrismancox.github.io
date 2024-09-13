@@ -14,7 +14,7 @@ redirect_from:
 In 2020, my wife Sarah was diagnosed with amyotrophic lateral sclerosis ([ALS](https://en.wikipedia.org/wiki/ALS), also known as Lou Gehrig's disease). Our world was completely rocked by this, but we continue to do our best to live the lives we want and enjoy each other for as long as we can.
 
 
-If you can, consider giving to any of the following important organizations that have made  huge difference in our lives and those of our other family members affecwted by this disease:
+If you can, consider giving to any of the following important organizations that have made  huge difference in our lives and those of our other family members affected by this disease:
 
 
 - [Team Gleason](https://teamgleason.org/donate/)
