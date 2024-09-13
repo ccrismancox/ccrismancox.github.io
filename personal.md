@@ -22,4 +22,4 @@ If you can, consider giving to any of the following important organizations that
 - [WashU Neurology](https://millerlab.wustl.edu/donate/)
 - [ALS association](https://www.als.org/get-involved/ways-give)
 
-![alt text](IMG_6079.heic "title")
+![alt text](sarah.jpg "title")
