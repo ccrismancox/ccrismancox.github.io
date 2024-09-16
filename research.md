@@ -25,7 +25,7 @@ redirect_from:
 
 # In progress
 
-- "Tug of War: The Heterogeneous Effects of Outbidding between Terrorist Groups" (with Michael Gibilisco). Invited to revise and resubmit to *International Organization*. [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf)
+- "Tug of War: The Heterogeneous Effects of Outbidding between Terrorist Groups" (with Michael Gibilisco). Conditionally accepted at *International Organization*. [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf)
 - "The Prospect of Punishment and the Strategic Escalation of Civil Conflicts"  [Paper](research/punishment.pdf) [Appendix](research/SIpunishment.pdf) 
 - "Simple Approaches to Addressing Unobserved Heterogeneity in Systems of Binary Outcome Equations" (with Keigo Tanabe)
 - "A Structural Analysis of Commitment Problems in Civil War Peace Agreements"
