@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 # Publications
-1. "Tug of War: The Heterogeneous Effects of Outbidding between Terrorist Groups" (with Michael Gibilisco). 2024. Conditionally accepted at *International Organization*. [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf) [Replication](https://github.com/ccrismancox/IO_TugOfWar)
+1. "Tug of War: The Heterogeneous Effects of Outbidding between Terrorist Groups" (with Michael Gibilisco). 2024. Forthcoming at *International Organization*. [Paper](research/outbidding.pdf) [Appendix](research/outbiddingSI.pdf) [Replication](https://github.com/ccrismancox/IO_TugOfWar)
 1. "Remittances, Domestic Terrorism, and Democracy" (with Yohan Park). 2024.  *Conflict Management and Peace Science*. [Paper](research/remittances.pdf) [Appendix](research/SIremittances.pdf) [Publisher](https://journals.sagepub.com/doi/full/10.1177/07388942231207029) [Replication](https://github.com/ccrismancox/CMPS_remittances)
 1. "Detecting and Correcting for Separation in Strategic Choice Models" (with Curtis Signorino and Olga Gasparyan). 2023.  *Political Analysis* [Paper](research/CrismanCox_PA2023.pdf) [Appendix](research/SeparationAppendix.pdf) [Publisher](https://doi.org/10.1017/pan.2022.36) [Replication](https://github.com/ccrismancox/PA_BrStrat) 
 1. "Democracy, Reputation for Resolve, and Civil Conflict." 2022. *Journal of Peace Research*. [Paper](research/CrismanCox_JPR2022.pdf) [Appendix](research/appendixDuration.pdf) [Publisher](https://doi.org/10.1177/00223433211024697) [Replication](https://github.com/ccrismancox/JPR_reputation4resolve)
